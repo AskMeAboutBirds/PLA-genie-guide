@@ -174,7 +174,7 @@ On CFW, switch to capturesight (and close the python script as it will no longer
 
 1. Initiate battles with a back strike so it only considers enamorus for the battle and not the surrounding random mons
 
-2. check out the attached videos for a fast way to encounter and faint enamorus -- basically drop out of the sky from a nonfatal height near enamorus and buffer throw a smoke bomb right where you land. If done right no mons will see you and you can hit enamorus with an item/pokemon pokeball and fly again before it has a chance to flee. After doing this 3 times enamorous is stunned and you can initiate the battle.
+2. [check out the attached video](https://youtu.be/kpXki7hshz0) for a fast way to encounter and faint enamorus  -- basically drop out of the sky from a nonfatal height near enamorus and buffer throw a smoke bomb right where you land. If done right no mons will see you and you can hit enamorus with an item/pokemon pokeball and fly again before it has a chance to flee. After doing this 3 times enamorous is stunned and you can initiate the battle.
 
 
 
