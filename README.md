@@ -9,7 +9,9 @@ General process
 The general process for every genie is the following:
 
 1.  SR for your spread on its spawner (usually the last active spawner) within 100 frames
+
 	a. CFW: check your future frames with the tool attached below after reloading the map
+	
 	b. RETAIL: reload the map, save, catch the genie, trade it to a bot to check your generator seed, plug that into the tool to see future frames.
     
 2.  Save when you get a good seed
@@ -17,7 +19,9 @@ The general process for every genie is the following:
 3.  Faint the genie
    
 4.  Advance the genie spawner frame
+
 	a.  You can do this by teleporting to a camp and switching the current day night cycle to its opposite (day to night or night to day) and the flying back over the spawn area
+	
 	b.  Or you can wait in the genie spawner area until either the weather changes or the day night cycle changes (ie, morning → day → evening → night → morning)
 
 5.  Travel to a cave on the map (do not use an occupied one)
@@ -29,7 +33,9 @@ The general process for every genie is the following:
 8. Repeat 3 - 7 until you are on frame 0 from your starting frame
 
 9. Catch your genie when it is generated (frame 0 in provided tool)
+
 	a. On retail, catch your genies when you get close and check their stats to make sure you do not miss your frame
+	
 	b. on CFW use capture sight or catch and check your genies when close (< 3 frames away).
 
 
@@ -148,7 +154,7 @@ Now that you have reloaded from inside the cave the genie is respawned and will 
 
 Repeat the above processes until you are close to your target
 
-On retail, when you get close you may want to catch each enamorus and check its spread / stats so you do not overshoot. Reload your game from the cave and then faint it. The provided python script can print out all frames til your target to check where you are if you set the option filters=False.
+On retail, when you get close you may want to catch each enamorus and check its spread / stats so you do not overshoot. Reload your game from the cave and then faint it. The provided python script can print out all frames til your target to check where you are if you set the option filters=0.
 
  
 On CFW, switch to capturesight (and close the python script as it will no longer work) or do the same process described above for retail, or just catch the spawned enamorus when the script reports it to be on frame 0.
@@ -176,6 +182,11 @@ On CFW, switch to capturesight (and close the python script as it will no longer
 
 2. [check out the attached video](https://youtu.be/kpXki7hshz0) for a fast way to encounter and faint enamorus  -- basically drop out of the sky from a nonfatal height near enamorus and buffer throw a smoke bomb right where you land. If done right no mons will see you and you can hit enamorus with an item/pokemon pokeball and fly again before it has a chance to flee. After doing this 3 times enamorous is stunned and you can initiate the battle.
 
+
+Other Genies
+----
+
+The other genies work exactly the same, except when you teleport back to a camp after advancing the spawner frame for Tornadus and Thundurus, you have to sleep until the weather changes to the correct type for the Genie to appear (thunderstorm / blizzard respectively).
 
 
 
