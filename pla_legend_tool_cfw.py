@@ -260,7 +260,7 @@ def main(args):
     #enamorous = 398, -2
     #403 manaphy
     gender = int(args.gender)     # false for every legend BUT heatran
-    group_ids = list2int(str2list(args.gids))  # list of group ids to check
+    group_ids = list2int(args.gids.replace(' ','').split(','))  # list of group ids to check
     filters = int(args.filter_on)        # set to false to print every frame
     search_range = int(args.search_range) # how many frames to search
     gs = -1            # manual override for generator seed
